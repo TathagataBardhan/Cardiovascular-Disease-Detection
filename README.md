@@ -25,12 +25,14 @@ The dataset consists of 70,000 records of patients data, 11 features + target. T
 # Softwares used:
 R, Python
 # Techniques:
-1. Data cleaning (Null values detection, Outliers detection & treatment)
+1. Data preparation
 #
-2. Exploratory Data Analysis
+2. Data cleaning (Null values detection, Outliers detection & treatment)
 #
-3. Train-Test split.
+3. Exploratory Data Analysis
 #
-4. Machine Learning model fitting - Logistic regression, SVM, Decision trees, XGBoost etc.
+4. Train-Test split.
 #
-5. Deep Learning techniques
+5. Machine Learning model fitting - Logistic regression, SVM, Decision trees, XGBoost etc.
+#
+6. Deep Learning techniques
