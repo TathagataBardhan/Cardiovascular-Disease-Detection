@@ -10,3 +10,13 @@ Prediction of presence or absence of cardiovascular disease based on information
 2. Research paper on "A Review on Heart Disease Prediction using Machine Learning and Data Analytics Approach" - Coimbatore Institute of Technology.
 #
 3. Research paper on "Improved Study of Heart Disease Prediction System using Data Mining Classification Techniques" - Walchand Institute of Technology.
+# Data
+There are 3 types of input features:
+#
+Objective: factual information
+#
+Examination: results of medical examination
+#
+Subjective: information given by the patient
+#
+Features:
