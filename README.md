@@ -22,3 +22,15 @@ The dataset consists of 70,000 records of patients data, 11 features + target. T
 > Input features: Age, Height(cm), Weight(kg), Gender, Systolic blood pressure, Diastolic blood pressure, Cholesterol, Glucose, Smoking, Alcohol intake, Physical activity.
 #
 > Target Variable: Presence or absence of cardiovascular disease.
+# Softwares used:
+R, Python
+# Techniques:
+1. Data cleaning (Null values detection, Outliers detection & treatment)
+#
+2. Exploratory Data Analysis
+#
+3. Train-Test split.
+#
+4. Machine Learning model fitting - Logistic regression, SVM, Decision trees, XGBoost etc.
+#
+5. Deep Learning techniques
