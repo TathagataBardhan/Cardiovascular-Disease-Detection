@@ -19,4 +19,4 @@ Examination: results of medical examination
 #
 Subjective: information given by the patient
 #
-Features:
+
