@@ -11,6 +11,7 @@ Prediction of presence or absence of cardiovascular disease based on information
 #
 3. Research paper on "Improved Study of Heart Disease Prediction System using Data Mining Classification Techniques" - Walchand Institute of Technology.
 # Data
+The dataset consists of 70,000 records of patients data, 11 features + target #
 There are 3 types of input features:
 #
 Objective: factual information
