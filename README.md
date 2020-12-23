@@ -13,7 +13,13 @@ Prediction of presence or absence of cardiovascular disease based on information
 # Data
 The dataset consists of 70,000 records of patients data, 11 features + target
 #
-There are 3 types of input features: 1. Objective: Factual information, 2. Examination: Results of medical examination, 3. Subjective: Information given by the patient
+There are 3 types of input features:
+#
+1.Objective: Factual information.
+#
+2.Examination: Results of medical examination.
+#
+3.Subjective: Information given by the patient
 #
 > Input features: Age, Height(cm), Weight(kg), Gender, Systolic blood pressure, Diastolic blood pressure, Cholesterol, Glucose, Smoking, Alcohol intake, Physical activity.
 #
